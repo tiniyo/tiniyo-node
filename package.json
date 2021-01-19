@@ -1,0 +1,28 @@
+{
+  "name": "tiniyo",
+  "version": "1.0.0",
+  "description": "nodejs sdk for tiniyo api",
+  "main": "./tiniyo/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiniyo/tiniyo-node.git"
+  },
+  "keywords": [
+    "CALL",
+    "SMS",
+    "TINIYO"
+  ],
+  "dependencies": {
+    "@types/twilio": "0.0.10",
+    "twilio": "3.29.2"
+  },
+  "author": "support",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiniyo/tiniyo-node/issues"
+  },
+  "homepage": "https://github.com/tiniyo/tiniyo-node#readme"
+}
